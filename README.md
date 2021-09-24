@@ -1,5 +1,5 @@
 ## Hey there :)
-My name's [Jonathan Verbeek](https://jverbeek.de), I am 21 years old and a professional Unreal Engine programmer. I have excellent knowledge in Blueprints, C++, 3D art, Animations, Sound, and UI/UX design.
+My name's [Jonathan Verbeek](https://jverbeek.de), I am 22 years old and a professional Unreal Engine programmer. I have excellent knowledge in Blueprints, C++, 3D art, Animations, Sound, and UI/UX design.
 
 Next to Unreal, I'm programming all tools for the Nintendo Switch Homebrew community, little gadgets or just some test libraries.
 
@@ -11,4 +11,4 @@ In my freetime, I play a couple of instruments and produce downtempo music under
 ![My GitThub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iUltimateLP&theme=dark&layout=compact)
 
 ## Contact me
-Feel free to contact me at 📫 `hello (at) jverbeek.de` or at Discord `Mandelbrot#5360`.
+Feel free to contact me at 📫 `hello (at) jverbeek.de` or at Discord `Mandelbrot#5630`.
