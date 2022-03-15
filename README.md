@@ -1,7 +1,7 @@
 ## Hey there :)
 My name's [Jonathan Verbeek](https://jverbeek.de), I am 22 years old and a professional Unreal Engine programmer. I have excellent knowledge in Blueprints, C++, 3D art, Animations, Sound, and UI/UX design.
 
-Next to Unreal, I'm programming all tools for the Nintendo Switch Homebrew community, little gadgets or just some test libraries.
+Next to Unreal, I'm programming tools for the Nintendo Switch Homebrew community, little gadgets or just some test libraries.
 
 In my freetime, I play a couple of instruments and produce downtempo music under the name [JV.](https://open.spotify.com/artist/7qcMJZISlokJmna3E98daq?si=eLUyRIhFRBaQF8BA0SbaqA&dl_branch=1)
 
